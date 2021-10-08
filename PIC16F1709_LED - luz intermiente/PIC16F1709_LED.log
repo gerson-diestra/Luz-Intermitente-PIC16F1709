@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F1709 -DL -O11111114 -fo16 -N"F:\clases virtual de pic\PIC16F1709\PIC16F1709_LED - luz intermiente\PIC16F1709_LED.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16_Enh\" -SP"F:\clases virtual de pic\PIC16F1709\PIC16F1709_LED - luz intermiente\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16_Enh\" "PIC16F1709_LED.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_MemManager.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_17xx.mcl" "__Lib_FLASH_w32_e32.mcl" "__Lib_PPS_170x.mcl" "__Lib_UART_Remappable.mcl" "__Lib_SPI_Remappable.mcl" "__Lib_I2C_Remappable.mcl" "__Lib_PWM_Remappable.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_RS485.mcl" "__Lib_S1D13700.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_EthEnc28j60.mcl" "__Lib_EthEnc24j600.mcl" "__Lib_TouchPanel.mcl"	 
+hint: 0	1139	Available RAM: 1008 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	PIC16F1709_LED.c
+diagnostics: 25	123	Compiled Successfully	PIC16F1709_LED.c
+diagnostics: 0	127	All files Compiled in 16 ms	 
+hint: 0	1144	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 1008 (99%)	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 1008 (99%)
+hint: 0	1144	Used ROM (program words): 55 (1%)  Free ROM (program words): 8137 (99%)	Used ROM (program words): 55 (1%)  Free ROM (program words): 8137 (99%)
+diagnostics: 0	125	Project Linked Successfully	PIC16F1709_LED.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'PIC16F1709_LED.mcppi' completed: 94 ms	 
+diagnostics: 0	103	Finished successfully: 08 Oct. 2021, 16:12:50	PIC16F1709_LED.mcppi
